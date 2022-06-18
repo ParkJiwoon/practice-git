@@ -1,1 +1,2 @@
 hello fast-forward
+hello fast-forward 2
