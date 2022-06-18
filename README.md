@@ -3,4 +3,5 @@
 Git 연습용 레포
 
 내용 정리
-- gitmoji
+
+- [Gitmoji (for Git Commit Convention)](https://bcp0109.tistory.com/372)
